@@ -1,1 +1,38 @@
-# myindia.github.io
+<!DOCTYPE html>
+<html>
+<head>
+   
+    <title>Mera Bharat Mahan</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+  />
+</head>
+<body>
+    <header>
+
+        <nav>
+            <div class="logo"> <h1 class="animate__animated animate__heartBeat animate__delay-2st">my contry</h1></div>
+            <div class="menu">
+                <a href="file:///C:/Users/Admin/Desktop/My%20first%20project%20for%20html/my.html">home</a>
+                <a href="#">gallery</a>
+                <a href="https://www.youtube.com/channel/UC4m-cA0O7oAZ3c02D7_4y7Q" target="_blank">about</a>
+                <a href="my2.html">contact</a>
+                
+            </div>
+        </nav>
+            <main>
+                <section>
+                    <h3>Welcome To India</h3>
+                    <h1>DO COME & VISIT <span class="chenge_content"></span></h1>
+                    <p>"Bhujpur once is not enough"</p>
+                    <a href="#" class="btnone">learn more</a>
+                    <a href="#" class="btntwo">signup here</a>
+                </section>
+            </main>
+        
+    </header>
+</body>
+</html>
